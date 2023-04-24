@@ -1,4 +1,3 @@
-<!-- Created by me (Yagatov) -->
 ![Footer animation](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=header&width=100)
 
 
@@ -62,8 +61,9 @@
 
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=0:2CA5E0,100:2d65df&height=2&width=100)
 
-<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yagatov&show_icons=true&theme=github_dark&icon_color=2CA5E0&ring_color=2CA5E0&locale=ru&custom_title=Моя%20статистика&disable_animations=true">
-<img align="right" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagatov&layout=compact&theme=github_dark&locale=ru&card_width=400&custom_title=Популярные%20языки&disable_animations=true">
-
+<div id="stats">
+  <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yagatov&show_icons=true&theme=github_dark&icon_color=2CA5E0&hide_rank=true&locale=ru&card_width=350&custom_title=Моя%20статистика&disable_animations=true">
+  <img align="right" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagatov&layout=compact&theme=github_dark&locale=ru&card_width=450&custom_title=Популярные%20языки&disable_animations=true">
+</div>
 
 ![Footer animation](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=footer&width=100)

@@ -25,8 +25,8 @@
       </a>
     </th>
     <th>
-      <a href="https://t.me/wastedem">
-        <img alt="Telegram" src="https://img.shields.io/badge/wastedem-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+      <a href="https://t.me/yagatov">
+        <img alt="Telegram" src="https://img.shields.io/badge/yagatov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
       </a>
     </th>
     <th>
